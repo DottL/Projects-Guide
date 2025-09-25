@@ -3,7 +3,7 @@
 ## SQL
 |            Title                  |  Area |Description     |
 |--------------------------------------|------|----|
-| [8-Week SQL Challenges](https://github.com/DottL/8-Weeks-SQL-Challenge/tree/main) (In Progress)|  | IN PROGRESS |
+| [8-Week SQL Challenges] (In Progress)|  | IN PROGRESS |
 
 
 ## PYTHON
