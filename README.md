@@ -1,10 +1,5 @@
 # Projects
 
-## SQL
-|            Title                  |  Area |Description     |
-|--------------------------------------|------|----|
-| [8-Week SQL Challenges] (In Progress)|  | IN PROGRESS |
-
 
 ## PYTHON
 |         Title                   |  Area     |  Description        | Libraries|
